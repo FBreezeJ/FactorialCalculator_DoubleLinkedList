@@ -5,8 +5,6 @@
  * 						the factorial, the number of digits in the factorial, and the factorial solution. 
  *   Version or Date: April 27, 2018.
  *   How to Start the Project: Press the run tab in the command window.
- *   Author: Forest Jenkins 
- *   Palomar ID: 010418184
  *   User Instructions: Press the run button and input the relevant information via the keyboard.
  */
 
@@ -14,8 +12,7 @@ import java.util.*;
 import java.io.*;
 
 /**
- * CSIS 210
- * @author Forest Jenkins
+
  * The Driver class stores the main method. Its purpose is to call upon the Factorials object's methods in order to 
  * calculate and print the factorial of the number provided by the user.
  */
